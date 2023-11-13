@@ -1,0 +1,30 @@
+.table-wrapper {
+    width: 100%;
+}
+
+.table {
+    width: 100em;
+    max-width: 80%;
+    margin: auto;
+}
+
+.actions span {
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.edit {
+    color: green;
+    font-size: 27px;
+    margin-right: 10px;
+}
+
+.delete {
+    color: rgb(180, 12, 12);
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.table th {
+    text-transform: uppercase;
+}
